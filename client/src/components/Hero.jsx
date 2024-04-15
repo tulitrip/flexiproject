@@ -11,7 +11,9 @@ const Hero = () => {
           Our Responsibility
         </h1>
         <p>
-hello
+ Join the thousands of satisfied users who trust us for their healthcare needs. Sign up now to discover the convenience and efficiency of our platform, and take control of your health journey today.
+
+Thank you for choosing us. We look forward to being your partner in health and wellness.
         </p>
       </div>
       <div className="hero-img">
